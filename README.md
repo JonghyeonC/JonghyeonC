@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&desc=Hi!%20I'm%20J.Choi&descSize=40&descAlign=70&descAlignY=40&rotate=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&desc=Hi!%20I'm%20J.Choi&descSize=40&descAlign=70&descAlignY=40&rotate=20&animation=fadeIn)
 
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonghyeonC&show_icons=true&theme=radical)
 
