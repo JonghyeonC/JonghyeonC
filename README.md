@@ -1,4 +1,6 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20I'm%20J.Choi&fontSize=90)
+
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonghyeonC&show_icons=true&theme=radical)
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chn9801)
