@@ -3,6 +3,8 @@
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonghyeonC&show_icons=true&theme=radical)
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chn9801)
+
+![snake gif](https://github.com/JonghyeonC/JonghyeonC/blob/output/github-contribution-grid-snake.svg)
 <!--
 **JonghyeonC/JonghyeonC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
