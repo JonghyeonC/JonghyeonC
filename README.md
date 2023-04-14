@@ -4,7 +4,7 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chn9801)
 
-![snake gif](https://github.com/JonghyeonC/JonghyeonC/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/JonghyeonC/JonghyeonC/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **JonghyeonC/JonghyeonC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
