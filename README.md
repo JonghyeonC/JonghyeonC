@@ -5,7 +5,7 @@
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonghyeonC&show_icons=true&theme=radical)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chn9801)
 
-![Jay's profile](http://mazandi.herokuapp.com/api?handle=chn9801&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=chn9801&theme=warm)
 
 ![snake gif](https://github.com/JonghyeonC/JonghyeonC/blob/output/github-contribution-grid-snake.svg)
 
