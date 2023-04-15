@@ -3,9 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&desc=Hi!%20I'm%20J.Choi&descSize=40&descAlign=70&descAlignY=40&rotate=18&animation=fadeIn)
 
 ### Baekjoon Streak
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=chn9801&theme=warm)  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chn9801)
+
 
 <div align="center">
+  
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chn9801&theme=warm)  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chn9801)
   
   ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonghyeonC&show_icons=true&theme=radical)
   
