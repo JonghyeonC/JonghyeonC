@@ -1,6 +1,6 @@
 # CHOI JONG HYEON 😉
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&desc=WELCOME!%20I'm%20Jay&descSize=60&animation=fadeIn&reversal=true&descAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&desc=WELCOME!%20I'm%20J&descSize=60&animation=fadeIn&reversal=true&descAlign=75)
 
 
 
