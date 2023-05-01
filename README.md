@@ -7,6 +7,19 @@
 
 <div align="center">
   
+  ### **Framework/Library**
+
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+
+  ### **Languages**
+
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+  ### **Tools**
+
+  <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/PostMan-FF6C37?style=flat-square&logo=PostMan&logoColor=white"/>
+
+  
   ### Baekjoon Streak
   
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chn9801&theme=warm)  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chn9801)
