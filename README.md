@@ -30,7 +30,7 @@
   
   ![snake gif](https://github.com/JonghyeonC/JonghyeonC/blob/output/github-contribution-grid-snake.svg)
   
-  ![COBBY_BADGE](https://cobby-play.com/api/user/badge/JonghyeonC?theme=0)
+  ![COBBY_BADGE](https://cobby-play.com/api/user/badge/JonghyeonC?theme=1)
 </div>
 
 
