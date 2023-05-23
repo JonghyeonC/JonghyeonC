@@ -31,18 +31,23 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=white"/>
   
   <br>
+  
   ## Baekjoon Streak
   
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chn9801&theme=warm)  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chn9801)
   
   <br>
+  
   ## GitHub stats
   
   ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonghyeonC&show_icons=true&theme=radical&card_width=1000)
   
   <br>
+  
   ![snake gif](https://github.com/JonghyeonC/JonghyeonC/blob/output/github-contribution-grid-snake.svg)
+  
   <br>
+  
   ![COBBY_BADGE](https://cobby-play.com/api/user/badge/JonghyeonC?theme=2)
 </div>
 
