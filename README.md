@@ -7,39 +7,42 @@
 
 <div align="center">
   
-  
+  ## 기술스택
   ### **Languages**
 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
   
   ### **Framework/Library**
 
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white"/>
 
   ### **Tools**
 
-  <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/PostMan-FF6C37?style=flat-square&logo=PostMan&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intellij-000000?style=plastic&logo=intellijidea&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/pycharm-000000?style=plastic&logo=pycharm&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/jira-0052CC?style=plastic&logo=jira&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PostMan-FF6C37?style=plastic&logo=PostMan&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=white"/>
   
-  ### Baekjoon Streak
+  <br>
+  ## Baekjoon Streak
   
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chn9801&theme=warm)  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chn9801)
   
-  ### GitHub stats
+  <br>
+  ## GitHub stats
   
   ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonghyeonC&show_icons=true&theme=radical&card_width=1000)
   
+  <br>
   ![snake gif](https://github.com/JonghyeonC/JonghyeonC/blob/output/github-contribution-grid-snake.svg)
-  
+  <br>
   ![COBBY_BADGE](https://cobby-play.com/api/user/badge/JonghyeonC?theme=2)
 </div>
 
