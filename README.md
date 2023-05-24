@@ -46,9 +46,6 @@
   
   ![snake gif](https://github.com/JonghyeonC/JonghyeonC/blob/output/github-contribution-grid-snake.svg)
   
-  <br>
-  
-  ![COBBY_BADGE](https://cobby-play.com/api/user/badge/JonghyeonC?theme=2)
 </div>
 
 
