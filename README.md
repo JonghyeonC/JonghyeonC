@@ -38,12 +38,6 @@
   
   <br>
   
-  ## GitHub stats
-
-  ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonghyeonC&show_icons=true&theme=radical&card_width=1000)
-
-  <br>
-  
   ![snake gif](https://github.com/JonghyeonC/JonghyeonC/blob/output/github-contribution-grid-snake.svg)
   
 </div>
